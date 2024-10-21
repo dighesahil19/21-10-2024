@@ -1,0 +1,24 @@
+1]. JAVA PROGRAM EXECUTION :- 
+
+   -> JAVA PROGRAM EXECUTION REQUIIREDS TWO STEPS 
+
+     1] Compilation
+
+     2] Execution 
+
+i] COMPILATION  
+     
+ java dev                 file.java                             file.class   java compiler
+java file                  sourse code      Compiler-javac        byte code  class file 
+
+
+    // Human readable/understanable code                                     // Itermediate code
+                                                                            // Platform
+
+ii]  EXECUTION 
+
+java compiler                       file.class                              Native Code 
+    class file        byte code       Execution/run-interpreter-java             or               class file
+                                                                           Binary code   
+                                                                         
+                                                                        // Micro Processer

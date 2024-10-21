@@ -1,0 +1,7 @@
+1]. Initillize git in your workspace.
+2]. Do your task (Working Area).
+3]. Add your files into stage area (Git Add Filenmaes).
+4]. Add Your Files into local repository (Git commit -m "Messagge").
+5]. Create new repository in github account.
+6]. add github repository origin/url to git.
+7]. Add your local repository files to remote repository (Git push).  
